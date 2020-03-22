@@ -6,5 +6,5 @@ variable "project" {}
 variable "aws_region" {}
 variable "iac" {}
 
-variable "access_key_personal" {}
-variable "secret_key_personal" {}
+#variable "access_key_personal" {}
+#variable "secret_key_personal" {}
